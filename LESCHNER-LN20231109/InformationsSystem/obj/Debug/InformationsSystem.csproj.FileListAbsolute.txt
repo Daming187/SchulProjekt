@@ -1,0 +1,6 @@
+Z:\koopfiae14\leschner\LN\LESCHNER-LN\InformationsSystem\bin\Debug\InformationsSystem.exe.config
+Z:\koopfiae14\leschner\LN\LESCHNER-LN\InformationsSystem\bin\Debug\InformationsSystem.exe
+Z:\koopfiae14\leschner\LN\LESCHNER-LN\InformationsSystem\bin\Debug\InformationsSystem.pdb
+Z:\koopfiae14\leschner\LN\LESCHNER-LN\InformationsSystem\obj\Debug\InformationsSystem.csprojResolveAssemblyReference.cache
+Z:\koopfiae14\leschner\LN\LESCHNER-LN\InformationsSystem\obj\Debug\InformationsSystem.exe
+Z:\koopfiae14\leschner\LN\LESCHNER-LN\InformationsSystem\obj\Debug\InformationsSystem.pdb

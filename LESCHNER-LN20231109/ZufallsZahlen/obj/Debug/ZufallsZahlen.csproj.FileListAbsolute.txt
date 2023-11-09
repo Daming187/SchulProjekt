@@ -1,0 +1,6 @@
+Z:\koopfiae14\leschner\LN\LESCHNER-LN\ZufallsZahlen\bin\Debug\ZufallsZahlen.exe.config
+Z:\koopfiae14\leschner\LN\LESCHNER-LN\ZufallsZahlen\bin\Debug\ZufallsZahlen.exe
+Z:\koopfiae14\leschner\LN\LESCHNER-LN\ZufallsZahlen\bin\Debug\ZufallsZahlen.pdb
+Z:\koopfiae14\leschner\LN\LESCHNER-LN\ZufallsZahlen\obj\Debug\ZufallsZahlen.csprojResolveAssemblyReference.cache
+Z:\koopfiae14\leschner\LN\LESCHNER-LN\ZufallsZahlen\obj\Debug\ZufallsZahlen.exe
+Z:\koopfiae14\leschner\LN\LESCHNER-LN\ZufallsZahlen\obj\Debug\ZufallsZahlen.pdb
